@@ -1,11 +1,15 @@
 {
   "name": "@seognil-playground/npm-feature-test",
-  "version": "0.0.7",
+  "version": "0.0.4",
   "description": "test npmjs.com publish feature",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  }
 }
