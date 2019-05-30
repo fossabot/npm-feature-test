@@ -1,6 +1,6 @@
 {
   "name": "@seognil-playground/npm-feature-test",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "test npmjs.com publish feature",
   "main": "index.js",
   "scripts": {
